@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 20px;
+}
+img {
+  display: block;
+}
+.demo {
+  margin-top: 20px;
+}
+label {
+  font-weight: bold;
+}
+input {
+  padding: 5px;
+}
